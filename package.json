@@ -4,7 +4,8 @@
   "description": "Scheduling cron job to run every spesific time for update car promotion status that already pass the date",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "script": "node index.js --"
   },
   "repository": {
     "type": "git",
